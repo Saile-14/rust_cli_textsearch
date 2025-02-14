@@ -1,0 +1,3 @@
+Foo: 10
+Bar: 20
+Ping: mi piace il caffè
